@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on sides projects (not especialy public git repos)
+- 🌱 I’m currently learning java (a lot) but also python and javascript
+- 📫 How to reach me: send me an email @ caplier.r@gmail.com
+
 <!--
 **rcaplier/rcaplier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
