@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on sides projects (not especialy public git repos)
-- 🌱 I’m currently learning java (a lot) but also python and javascript
+- 🔭 I’m currently working on an angular + ionic project in internship.
+- 🌱 I’m currently learning typscript.
 - 📫 How to reach me: send me an email @ caplier.r@gmail.com
 
 <!--
