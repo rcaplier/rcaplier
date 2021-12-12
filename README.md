@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an angular + ionic project in internship.
-- 🌱 I’m currently learning typscript.
+- 🌱 I’m currently learning typescript.
 - 📫 How to reach me: send me an email @ caplier.r@gmail.com
 
 <!--
