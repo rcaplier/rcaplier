@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an angular + ionic project in internship.
-- 🌱 I’m currently learning typescript.
+- 🔭 I’m currently working on an angular + ionic projects.
+- 🌱 I’m currently learning angular framework + ionic.
 - 📫 How to reach me: send me an email @ caplier.r@gmail.com
+- Interested in : Golang, python, java
 
 <!--
 **rcaplier/rcaplier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
