@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an angular + ionic projects.
-- 🌱 I’m currently learning angular framework + ionic.
+- 🔭 I’m currently working on an angular projects.
 - 📫 How to reach me: send me an email @ caplier.r@gmail.com
-- Interested in : Flutter, Golang, python, java
+- Interested in : Typescript, Golang, Rust
 
 Some of my projects are on Gitlab.
 
