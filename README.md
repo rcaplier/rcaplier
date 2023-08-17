@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an angular projects.
+- 🔭 I’m currently working on angular projects.
 - 📫 How to reach me: send me an email @ caplier.r@gmail.com
 - Interested in : Typescript, Golang, Rust
 
